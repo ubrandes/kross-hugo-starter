@@ -48,9 +48,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
+  - title: Masters in UX Design
     year: "2006"
-    academy: Masassusets Institute of Technology
+    academy: Massachusets Institute of Technology
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
